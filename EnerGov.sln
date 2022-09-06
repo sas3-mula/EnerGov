@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnerGov", "EnerGov\EnerGov.csproj", "{A8B7C744-D8A1-43A3-8C7A-140E49FAE1DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8B7C744-D8A1-43A3-8C7A-140E49FAE1DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8B7C744-D8A1-43A3-8C7A-140E49FAE1DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8B7C744-D8A1-43A3-8C7A-140E49FAE1DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8B7C744-D8A1-43A3-8C7A-140E49FAE1DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1040A6E-E1C4-4274-9013-C2F1AD73E592}
+	EndGlobalSection
+EndGlobal
