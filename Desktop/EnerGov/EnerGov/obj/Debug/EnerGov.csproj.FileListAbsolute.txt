@@ -1,0 +1,12 @@
+D:\TylerTech\Git\EnerGov\Desktop\EnerGov\EnerGov\bin\Debug\EnerGov.exe.config
+D:\TylerTech\Git\EnerGov\Desktop\EnerGov\EnerGov\bin\Debug\EnerGov.exe
+D:\TylerTech\Git\EnerGov\Desktop\EnerGov\EnerGov\bin\Debug\EnerGov.pdb
+D:\TylerTech\Git\EnerGov\Desktop\EnerGov\EnerGov\obj\Debug\EnerGov.csproj.AssemblyReference.cache
+D:\TylerTech\Git\EnerGov\Desktop\EnerGov\EnerGov\obj\Debug\EnerGov.csproj.SuggestedBindingRedirects.cache
+D:\TylerTech\Git\EnerGov\Desktop\EnerGov\EnerGov\obj\Debug\EnerGov.empManager.resources
+D:\TylerTech\Git\EnerGov\Desktop\EnerGov\EnerGov\obj\Debug\EnerGov.Properties.Resources.resources
+D:\TylerTech\Git\EnerGov\Desktop\EnerGov\EnerGov\obj\Debug\EnerGov.csproj.GenerateResource.cache
+D:\TylerTech\Git\EnerGov\Desktop\EnerGov\EnerGov\obj\Debug\EnerGov.csproj.CoreCompileInputs.cache
+D:\TylerTech\Git\EnerGov\Desktop\EnerGov\EnerGov\obj\Debug\EnerGov.exe
+D:\TylerTech\Git\EnerGov\Desktop\EnerGov\EnerGov\obj\Debug\EnerGov.pdb
+D:\TylerTech\Git\EnerGov\Desktop\EnerGov\EnerGov\obj\Debug\EnerGov.Form2.resources
