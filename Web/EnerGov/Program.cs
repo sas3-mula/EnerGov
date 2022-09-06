@@ -23,7 +23,6 @@ namespace EnerGov
                     webBuilder.UseStartup<Startup>();
                 });
     }
-
     public class Employee
     {
         public string EmployeeId { get; set; }

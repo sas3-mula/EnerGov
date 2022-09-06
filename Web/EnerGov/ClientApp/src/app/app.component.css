@@ -1,0 +1,26 @@
+
+.example-spacer {
+    flex: 1 1 auto;
+  }
+  
+
+
+
+  
+
+  svg#clouds {
+    position: fixed;
+    bottom: -160px;
+    left: -230px;
+    z-index: -10;
+    width: 1920px;
+  }
+  
+  
+
+ footer{
+  text-align: center;
+    bottom: 30px;
+    position: fixed;
+    width: 100%;
+ }

@@ -52,10 +52,16 @@ namespace EnerGov
             return ExecStoredProcedure(_appSettings["GetAllEmployees"], parameters);
         }
 
+        public DataSet GetAllManagers()
+        {
+            var parameters = new List<SqlParameter>();
+            return ExecStoredProcedure(_appSettings["GetAllManagers"], parameters);
+        }
+
         public DataSet GetEmployeesByManager(string @managerId)
         {
             var parameters = new List<SqlParameter>();
-            SqlParameter paramManagerId = new SqlParameter("@uName", SqlDbType.VarChar);
+            SqlParameter paramManagerId = new SqlParameter("@managerId", SqlDbType.VarChar);
             paramManagerId.Value = managerId;
             parameters.Add(paramManagerId);
 
@@ -94,4 +100,5 @@ namespace EnerGov
             return ExecStoredProcedure(_appSettings["ValidateEmployeeId"], parameters);
         }
     }
+    
 }
